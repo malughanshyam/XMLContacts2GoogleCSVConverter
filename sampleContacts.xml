@@ -35,4 +35,51 @@
         <nickName />
         <photo />
     </contact>
+    <contact>
+        <structuredName>
+            <displayName>Puneet </displayName>
+            <givenName>Puneet</givenName>
+            <familyName>Loya</familyName>
+            <prefixName />
+            <middleName />
+            <suffixName />
+        </structuredName>
+        <organization>
+            <company />
+            <department />
+            <title />
+        </organization>
+        <phones>
+            <phone>
+                <number>+1-812-391-9840</number>
+                <type>home</type>
+                <customLabel />
+            </phone>
+            <phone>
+                <number>+18123919840</number>
+                <type>home</type>
+                <customLabel />
+            </phone>
+        </phones>
+        <emails>
+            <email>
+                <address>loya.puneet@gmail.com</address>
+                <type>custom</type>
+                <customLabel>Other</customLabel>
+            </email>
+        </emails>
+        <addresses />
+        <ims />
+        <WebSites />
+        <Events>
+            <event>
+                <type>birthday</type>
+                <customTypeLabel />
+                <start_date>644371200000</start_date>
+            </event>
+        </Events>
+        <note />
+        <nickName />
+        <photo>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYF&#x0D;&#x0A;BgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoK&#x0D;&#x0A;CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr/wAARCABIAGADASIA&#x0D;&#x0A;AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA&#x0D;&#x0A;AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3&#x0D;&#x0A;ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm&#x0D;&#x0A;p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA&#x0D;&#x0A;AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx&#x0D;&#x0A;BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK&#x0D;&#x0A;U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3&#x0D;&#x0A;uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+f+ii&#x0D;&#x0A;itDMKKKlghLZJNADct/d/WlQuCcJnj1re0jwX4k13STqGnaFOyjpPj/W+y/3m/2agu/DfiSx086z&#x0D;&#x0A;Pp0/2Pz/ALP9p8j5PM/55/72P4TXL7XoaWkdn8GPjMPCEkWieJ032ef3Fz/Hb/8A2FfRWg6pYalp&#x0D;&#x0A;9vqOmmCciD/v712ba+KMbTxXofwc+MeoeAr7+ydZU3OmN15+e3/3f/ia5cThVUV0aUqnsj6pmte4&#x0D;&#x0A;bj1x9a53X/DQ1IXQxuq54b8Rad4g06DU9M1P7Rb3H+prYntHAdice3/fdedGCpJnZJU6lM+YPi58&#x0D;&#x0A;GX0C4k1nwzpv+j/8trb/AJ415ozBkK9/Svs7X9A03Y37zd+FfP8A8Wfg22nySaz4YseM/vrfHT/d&#x0D;&#x0A;r0cDifa+4cU6Tps8sooor1DAKt6deGwyaqVLbdD/AJ9aAPt79izUfhDN8In8Kt4Bg8QXXni4vv7U&#x0D;&#x0A;vrjyBI/yeYscTLtaJfvN829qq/tTfD7wZrfwSvNc+Hfh37ObYW9vPcyfNHdyKyt50f8AdP303fL/&#x0D;&#x0A;ABV82fB/42a78I2uRoXPnwvgbtvz/wC1/eH+z/4/X1l8ENP8WfFzSNM034jL9n0K4tbbUrLTbOwd&#x0D;&#x0A;rT96PkkVx/y0U/8AjymvlcVSxOEqe2+zzH0eBr4evg/Y/aPkvwV+zb+0F49v4dO8J/CDX7j7RsMN&#x0D;&#x0A;z9gdYPnxsfzX2xqP9otX0bpn/BFD9r7UfBkmtpqHhr7asPnQaebt98v/AEzWQLt/4F93/br7P/ZQ&#x0D;&#x0A;+BHhn4YfE0+EjqN9YWXiaeL/AIluqWDx+VM23yrhf9nKfM33q+qrbwZ4j8Jj+zjqfNt5n+j/AGf/&#x0D;&#x0A;AMh7D/DXbhczp4qnc8PMMPVwh+Dosfjj+yJ43Pgr4ueDdV0dPO/fWV7b9Y+f3kL/AHXX/dr2rwx4&#x0D;&#x0A;w03XNPt9S0/U4Lm3uOtz/wDFf7tfp38Wv2fvgz+0Z4YufAvxC8E2NzbD/XW95B/x7/f/AHiv96Pb&#x0D;&#x0A;u+8rL/8AF/jH4/1jSfgN+0F4o8L/AA6N9ceE7bW7iHT7bUJvMM1qkrpFcb++75/4R8rD79bSjTxE&#x0D;&#x0A;SMPVq2Pc5A14G+X9awfFGi6auV07/P3ad4V8X6d4q0iDV9O1P7Rb3HQH/wBn/wB2rupRHBAPWuCE&#x0D;&#x0A;FSOu/wC7PiqiiivpjgClj6n6UlPj6f596APSv2Wfgfqn7Rnxz0T4RWUn2caxef6bceT/AKqBPmk2&#x0D;&#x0A;++P5rX79fs8/Crw38E9Hg8K+E/D0EGlrBHFZW0f/AC6bNifL/vDZu/4DX49f8EWPGvh3wn+3Vp+n&#x0D;&#x0A;eKNNhP8AbejXOn6fk7P9K+V0/E7Gr9yLXVNNvrCDWdMH3v8Al3/j/h3/APfNeZXvZmE/a30LXjLw&#x0D;&#x0A;t4c8e6bCmu2MC3Fv+9stRjt/Lu4pPl2bX/u/7NW73w7Hf6d/abf6RceR+9/6bR/89Iv7rf3lqjpv&#x0D;&#x0A;jXS75ICp4uP9T/47/wDFVYj8S/2BqLIdMnbFclGHs1z8pMpVJ0ffPn/9sLwL8Tb/AOEes6l8ENUg&#x0D;&#x0A;Ovi0f7DbY+TU9m93t5f7vmxo6f7zrX5SeKNd+Gf7RbXNj4y8Pf2frtsPKvIJB5NzbzJv/g/9CWv3&#x0D;&#x0A;Q8U+EfDfiyyOsDT8f89zGPLk/wCWn7xcf+g/5T4K/bj/AOCZvh34veKG+KvhPxL/AMI74pt/+YtZ&#x0D;&#x0A;2/mR3sfz7PtEQ+9j+8G3bc7t/wDAey537hvgMX7Be/H3D8uV/wCEo+AnjVrC/H2jTJ5+P+ec8f8A&#x0D;&#x0A;z0X3r2Pwr4ysPFejQ6hp2oEW83bH+597/apfjX8OPGfhDUP+FQ/tE+G4NP1S4g83R9Vs7jzLa9j/&#x0D;&#x0A;AIJIJP8A2m3zV4HZzeKPhJ4kbTrk/uPf/Vyx/wDPRapL2tPkn8R6NSFvfh8BwlFFFe4cAVJE/Xim&#x0D;&#x0A;bD6iiPqfpQB0/wAOPHfiL4YeNtM+IXhLUwuoaPqcd7a/9dIm3/8AfJr+gz4GftCfBzx98D9D+O+p&#x0D;&#x0A;+O7HR9H1vTY7iC4vLtI/3j7PNjXPzMyFNm0fxV/OjDICTjqa27Txf4j0w2AHiW8xo8+6wt5JnMdu&#x0D;&#x0A;xfc+1c4Tdzux97muKtR5w5Odan77w/Hfw74g+Ld74S0Z/tGl6haR3Gnaj/q/OmT/AFvlJ/yzRvkf&#x0D;&#x0A;a38XzV6b4F8Xf8JDYs+ocfZugr8ffgt8fvGXxc+EhOjeK57DxRo3y293HceXPFJ8n7xX/wDZW+V/&#x0D;&#x0A;4q+vf2BP2+V8e38vw9+Nmnf2f400+1j/ALRNvD5aanDv+S+h/wBlv+Wi/wADfNXkYWeImpwrfGdG&#x0D;&#x0A;PwdLCUYzo/Afb+layNNUjTR/o9ZfxJ0HT9S0c6lqWpT3Ft/rRbx/9tPu/wDxNPsNQbxHYNqNjqX+&#x0D;&#x0A;jf8ALD/x/wD8eqpJNqdlqBS//wBIP/tOuulTseK5NnzL+2x+y74C+NPwKOlfEMixvftX2jT9Ss/3&#x0D;&#x0A;k9jNz/qv+eiqPnZfl3rX5h+O/hN42h0m60f4p6fnVNO7+R+8H+/n5tzDY/8AwP8A77/aD4qWGl6i&#x0D;&#x0A;G1Fh9pn8jj/lpHFH/wDFN9zbX5HftU/FzTr79qj4gDR9QguLT/hILO3n/wBI+TzEUxS7P+2n3v8A&#x0D;&#x0A;dqK0av2T1cqqr4Jni/7Un7J/xv8A2NfjRc/s7fH7QLHTvFun2NncalpFpqcN09kbiFZUt53hdlWZ&#x0D;&#x0A;Udd8e75K4LS9Lj1C6mtdQ1q3tPIt3lHnl/3pX/lmuxW+Y/w/w+9FFerR1uSiLW9cv9f1W41rUGH2&#x0D;&#x0A;i4OZvLhWNen90Vm0UVuIkij68063i6nP+eaKKAOg+HHxA8TfDPxKvirwxqXkXEH/AJEr6j8E/ErT&#x0D;&#x0A;fiYdM+K3wy8Rf2R418PT/aLK4H/LKT+Pcn8UTj5Gj/jWiivCx6UKfto/Ev8AgnqYFuUZUX8P/Dn6&#x0D;&#x0A;GfsWftdeDPj54HbTb/w9/YfirT5/K8TaFHP/AKqb59lxEj/ehf8A5Z/3F+X/AH/dL7WVGm3B0zr6&#x0D;&#x0A;/wCf4vn/AM/xlFb0P4Z89XpQWIPhj/go3/wU48F/DCzvvgh+z/4k/tjxT/qr7XrO8fyNEkTen7qS&#x0D;&#x0A;N/3lyv3Nv3U53fN8tflzLqmp5ulOoz/6R+9nzN/rvm3eZ/vZ+eiiuij/AA38jeh/DP/Z</photo>
+    </contact>
 </ContactRecords>
