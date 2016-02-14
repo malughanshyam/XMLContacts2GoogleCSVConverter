@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContactRecords>
+    <contact>
+        <structuredName>
+            <displayName>Manish</displayName>
+            <givenName>Manish</givenName>
+            <familyName />
+            <prefixName />
+            <middleName />
+            <suffixName />
+        </structuredName>
+        <organization>
+            <company />
+            <department />
+            <title />
+        </organization>
+        <phones>
+            <phone>
+                <number>+91999999999</number>
+                <type>mobile</type>
+                <customLabel />
+            </phone>
+            <phone>
+                <number>+91999999239</number>
+                <type>mobile</type>
+                <customLabel />
+            </phone>
+        </phones>
+        <emails />
+        <addresses />
+        <ims />
+        <WebSites />
+        <Events />
+        <note />
+        <nickName />
+        <photo />
+    </contact>
+</ContactRecords>
