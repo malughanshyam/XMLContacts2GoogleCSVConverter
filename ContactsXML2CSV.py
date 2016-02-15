@@ -75,11 +75,12 @@ def parseXML(fileName):
 			phones = contact.find('phones')
 			allPhones = list(phones.iter("phone"))
 			phoneDict = {}
+			tempCount = 0
 			for i in range(len(allPhones)):
-				if allPhones[i].findtext('number') :
-					phoneDict['Phone '+ str(i+1) + ' - Type'] = allPhones[i].findtext('type',default='Other').title().encode('utf-8')
-					phoneDict['Phone '+ str(i+1) + ' - Value'] = allPhones[i].findtext('number',default='').encode('utf-8')	
-					
+				if allPhones[i].findtext('number') and allPhones[i].findtext('number').replace(" ", "") not in phoneDict.values() :
+					phoneDict['Phone '+ str(tempCount+1) + ' - Type'] = allPhones[tempCount].findtext('type',default='Other').title().encode('utf-8')
+					phoneDict['Phone '+ str(tempCount+1) + ' - Value'] = allPhones[tempCount].findtext('number',default='').encode('utf-8').replace(" ", "")
+					tempCount+=1
 					
 			# Website
 			WebSites = contact.find('WebSites')
@@ -119,15 +120,17 @@ def parseXML(fileName):
 
 
 			# Update Maximum found counts for the email, phone and website to create CSV header.
-			if len(emailDict)/2 > maxEmailCount:
-				maxEmailCount = len(emailDict)/2
+			if len(emailDict) > maxEmailCount:
+				maxEmailCount = len(emailDict)
 							
-			if len(phoneDict)/2 > maxPhoneCount:
-				 maxPhoneCount = len(phoneDict)/2
+			if len(phoneDict) > maxPhoneCount:
+				 maxPhoneCount = len(phoneDict)
+				 culprit = [newContactDict, phoneDict]
 							
-			if len(websiteDict)/2 > maxWebsiteCount:
-				maxWebsiteCount = len(websiteDict)/2
+			if len(websiteDict) > maxWebsiteCount:
+				maxWebsiteCount = len(websiteDict)
 
+			
 			
 			'''
 			Sample
@@ -154,6 +157,15 @@ def parseXML(fileName):
 		sys.exit()
 	else:
 		print "Complete !!"	
+		# print maxPhoneCount, maxEmailCount, maxWebsiteCount
+		# for i in culprit:
+			# print i
+		
+		# Every phone dictionary has Two keys for every entry i.e., Type and Number. This set has to be counted as One. Similar for Email and Website
+		maxPhoneCount /=2 
+		maxEmailCount /=2
+		maxWebsiteCount/=2
+		
 		return allParsedContacts
 	
 
@@ -220,6 +232,7 @@ def main():
 	for i in range(maxWebsiteCount):
 		GoogleCSVFieldNames.append('Website '+ str(i+1) + ' - Type')
 		GoogleCSVFieldNames.append('Website '+ str(i+1) + ' - Value')					
+	
 	
 	# Export to Google CSV
 	exportCSV(sys.argv[1], GoogleCSVFieldNames, allParsedContacts)
